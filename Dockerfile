@@ -1,5 +1,5 @@
 FROM ubuntu:noble
-LABEL MAINTAINER='William Dizon <wdchromium@gmail.com>'
+LABEL MAINTAINER='Christopher Kreitz < romses@romses.de>'
 
 #update and accept all prompts
 ENV DEBIAN_FRONTEND=noninteractive
